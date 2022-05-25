@@ -1,0 +1,15 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: goldenrod;
+  font-weight: bold;
+  line-height: 3em;
+}
+
+.pic {
+  width: 300px;
+  height: 300px;
+}
