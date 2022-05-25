@@ -1,3 +1,8 @@
+
+body {
+  text-align: center;
+}
+
 .flashy {
   color: red;
   font-style: italic;
@@ -7,6 +12,7 @@
   color: goldenrod;
   font-weight: bold;
   line-height: 3em;
+
 }
 
 .pic {
